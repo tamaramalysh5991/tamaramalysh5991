@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Allposit<br><br>👯 I’m looking to collaborate on Open-source projects<br><br>🤝 I’m looking for help with: ML study and async architecture <br><br>🌱 I’m currently learning: Async Architecture, ML<br><br>💬 Ask me about My GitHub projects and experiences in tech development<br><br>📫 How to reach me https://t.me/siberianErmine<br><br>
+I’m looking to collaborate on Open-source projects<br><br>🤝 I’m looking for help with: ML study and async architecture <br><br>🌱 I’m currently learning: Async Architecture, ML<br><br>💬 Ask me about My GitHub projects and experiences in tech development<br><br>📫 How to reach me https://t.me/siberianErmine<br><br>
 
 
 ## 🌐 Socials:
